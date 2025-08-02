@@ -15,7 +15,7 @@ Paper: An Interpretable Functional-Dynamic Synaptic Graph Neural Network for Maj
 Code: https://github.com/ZHChen-294/MAF-GNN
 
 <div align="center">
-  <img src="https://github.com/ZHChen-294/FDSyn-GNN/blob/main/Img/Model.png">
+  <img src="[https://github.com/ZHChen-294/FDSyn-GNN/blob/main/Img/Model.png](https://github.com/ZHChen-294/FDSyn-GNN/blob/main/Img/Model.pdf)">
 </div>
 
 
