@@ -12,7 +12,7 @@ This repository contains PyTorch implementation for FDSyn-GNN.
 Paper: An Interpretable Functional-Dynamic Synaptic Graph Neural Network for Major Depressive Disorder Diagnosis from rs-fMRI
 <!-- Submitted to [**Biomedical Signal Processing and Control**](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) (In Revising). -->
 
-Code: https://github.com/ZHChen-294/MAF-GNN
+Code: https://github.com/ZHChen-294/FDSyn-GNN
 
 <div align="center">
   <img src="https://github.com/ZHChen-294/FDSyn-GNN/blob/main/Img/FDSyn-GNN.jpg">
