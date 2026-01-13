@@ -30,8 +30,7 @@ Code: https://github.com/ZHChen-294/FDSyn-GNN
 
 # 🧠 Project Overview
 
-This project is implemented in **Python (≥3.8)** and built on **PyTorch**, focusing on **graph-based modeling of resting-state fMRI data** using **FDSyn-GNN**.  
-All experiments are conducted with **stratified five-fold cross-validation**.
+This project is implemented in **Python (≥3.8)** and all experiments are conducted with **stratified five-fold cross-validation**.
 
 ---
 
