@@ -4,7 +4,6 @@
   <img src="https://github.com/ZHChen-294/FDSyn-GNN/blob/main/Img/FDSyn-GNN.jpg">
 </div>
 
-
 **Paper:** *An Interpretable Functional-Dynamic Synaptic Graph Neural Network for Major Depressive Disorder Diagnosis from rs-fMRI*  
 
 <p align="center">
