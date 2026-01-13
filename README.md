@@ -3,7 +3,7 @@
 **Paper:** *An Interpretable Functional-Dynamic Synaptic Graph Neural Network for Major Depressive Disorder Diagnosis from rs-fMRI*  
 
 <p align="center">
-Created by [Zhihong Chen](https://github.com/ZHChen-294)<sup>a</sup>, Jiayi Peng<sup>b</sup>, Xiaorui Han<sup>c</sup>, Mengfan Wang<sup>c</sup>, Jiang Wu<sup>a</sup>, Xinhua Wei<sup>c</sup>, Zhengze Gong<sup>de</sup>, [Dezhong Yao](https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao)<sup>a</sup>* and Hongmei Yan<sup>a</sup>*
+Created by <a href="https://github.com/ZHChen-294">Zhihong Chen<sup>a</sup></a>, Jiayi Peng<sup>b</sup>, Xiaorui Han<sup>c</sup>, Mengfan Wang<sup>c</sup>, Jiang Wu<sup>a</sup>, Xinhua Wei<sup>c</sup>, Zhengze Gong<sup>de</sup>, [Dezhong Yao](https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao)<sup>a</sup>* and Hongmei Yan<sup>a</sup>*
 </p>
 
 _The Clinical Hospital of Chengdu Brain Science Institute, Sichuan Institute for Brain Science and Brain-Inspired Intelligence, 
