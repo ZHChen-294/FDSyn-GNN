@@ -26,4 +26,57 @@ Code: https://github.com/ZHChen-294/FDSyn-GNN
   <img src="https://github.com/ZHChen-294/FDSyn-GNN/blob/main/Img/FDSyn-GNN.jpg">
 </div>
 
+---
+
+# 🧠 Project Overview
+
+This project is implemented in **Python (≥3.8)** and built on **PyTorch**, focusing on **graph-based modeling of resting-state fMRI data** using **FDSyn-GNN**.  
+All experiments are conducted with **stratified five-fold cross-validation**.
+
+---
+
+## ⚙️ Dependencies & Environment
+
+The project depends on the following core libraries.  
+All required packages are listed in `requirements.txt`.
+
+**Main dependencies include:**
+- **Deep learning & GNNs:** `torch`, `torchvision`, `torch-geometric`, `einops`
+- **Scientific computing:** `numpy`, `scipy`, `pandas`
+- **Machine learning:** `scikit-learn`
+- **Utilities:** `tqdm`, `tensorboard`
+
+> **Note:**  
+> `torch-geometric` should be installed using the wheel that matches your **PyTorch** and **CUDA** versions.  
+> Please refer to: https://pytorch-geometric.readthedocs.io
+
+---
+
+## 💻 Hardware Requirements (Recommended)
+
+- **GPU:** NVIDIA RTX 3060 (≥12 GB VRAM) or higher  
+- **CPU:** ≥ 12 cores  
+- **RAM:** ≥ 32 GB  
+- **Storage:** ≥ 100 GB free disk space (for multi-fold caching)  
+- **OS:** Ubuntu 20.04+ or Windows 10+  
+- **CUDA Toolkit:** 11.8 (must match the PyTorch build)  
+- **Python:** 3.8 or 3.9 recommended  
+
+---
+
+## 📂 Data Availability
+
+Experiments are conducted on the **DIRECT (REST-meta-MDD)** dataset, a large-scale resting-state fMRI dataset for **Major Depressive Disorder (MDD)**.  
+The dataset is publicly released by the REST-meta-MDD consortium and can be accessed according to the consortium’s data-sharing policy.
+
+---
+
+## 🚀 Installation
+
+Clone the repository and install all dependencies:
+
+```bash
+git clone https://github.com/ZHChen-294/MAF-GNN.git
+cd MAF-GNN
+pip install -r requirements.txt
 
