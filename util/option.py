@@ -30,9 +30,6 @@ def parse(argv_list=None):
     parser.add_argument("--clip_grad", type=float, default=0.0)
     parser.add_argument("--num_epochs", type=int, default=30)
 
-    parser.add_argument("--pretrain_epochs", type=int, default=5)
-    parser.add_argument("--finetune_epochs", type=int, default=5)
-
     parser.add_argument("--num_heads", type=int, default=2)
     parser.add_argument("--num_layers", type=int, default=4)
     parser.add_argument("--hidden_dim", type=int, default=128)
